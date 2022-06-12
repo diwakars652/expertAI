@@ -1,9 +1,9 @@
-## About this project: 🙌
+## About this project: 
 > This is a clone of expertia, built by me as expertia interview assignment .
 
 ---
 
-## Deployed Link: 🙌
+## Deployed Link: 
 - **[Click here to run the app](https://diwaexpertai.netlify.app/)**
 
 ---
